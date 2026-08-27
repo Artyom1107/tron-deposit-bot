@@ -1,4 +1,4 @@
-python-telegram-bot==20.7
-httpx==0.25.2
+python-telegram-bot[socks]==20.7
+httpx[socks]==0.25.2
 requests==2.31.0
-pysocks==1.7.1
+socksio==1.0.0
